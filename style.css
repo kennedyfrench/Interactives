@@ -1,0 +1,42 @@
+h1 {
+    color: #191970;
+    font-size: 3em;
+    font-family: Arial;
+  }
+  
+  #byline {
+    font-size: 1.1em;
+  }
+  
+  body {
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #fffff0;
+  }
+  
+  p {
+    font-size: 1.3em;
+    line-height: 1.3em;
+    padding-bottom: 20px;
+  }
+  
+  .img-container {
+    width: 100%;
+  }
+  
+  img {
+    margin: auto;
+    display: block;
+  }
+  
+  .cutline {
+    font-size: 10px;
+    padding-left: 7%;
+  }
+  
+  @media (orientation: portrait) {
+    #content {
+      width: 100%;
+    }
+  }
+  
